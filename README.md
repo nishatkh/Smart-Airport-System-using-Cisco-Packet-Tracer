@@ -64,7 +64,7 @@ The **Smart Airport Network System** is a comprehensive Cisco Packet Tracer proj
 
 ### Prerequisites
 
-- **Cisco Packet Tracer 8.0+** (Download from [NetAcad](https://www.netacad.com/pt/cisco-packet-tracer))
+- **Cisco Packet Tracer 9.0+** (Download from [NetAcad](https://www.netacad.com/pt/cisco-packet-tracer))
 - **Basic networking knowledge** (IP addressing, routing, switching)
 - **Understanding of IoT concepts** (recommended)
 
@@ -200,35 +200,6 @@ AIRPORT-ROUTER-01(dhcp-config)# default-router 192.168.2.1
 AIRPORT-ROUTER-01(dhcp-config)# dns-server 8.8.8.8
 ```
 
-### API Documentation (IoT Devices)
-
-#### Temperature Sensor API
-```json
-{
-  "endpoint": "/api/sensors/temperature",
-  "method": "GET",
-  "response": {
-    "temperature": "23.5",
-    "unit": "Celsius",
-    "timestamp": "2025-01-08T10:30:00Z"
-  }
-}
-```
-
-#### Security Camera API
-```json
-{
-  "endpoint": "/api/cameras/status",
-  "method": "POST",
-  "body": {
-    "camera_id": "CAM-01",
-    "status": "active",
-    "resolution": "1080p"
-  }
-}
-```
-
----
 
 ## 🤝 Contributing
 
@@ -323,8 +294,6 @@ SOFTWARE.
 ---
 
 <div align="center">
-
-Made with ❤️ for networking enthusiasts
 
 [![GitHub Stars](https://img.shields.io/github/stars/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/network/members)
