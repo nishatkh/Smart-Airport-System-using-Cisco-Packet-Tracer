@@ -287,8 +287,8 @@ SOFTWARE.
 ## 📬 Contact
 
 **Project Owner**: nishatkh  
-**Email**: [Your Email Address]  
-**Portfolio**: [Your Portfolio Website]  
+**Email**: nishatkhan8u@gmail.com 
+**Portfolio**:
 **GitHub**: [@nishatkh](https://github.com/nishatkh)
 
 ---
