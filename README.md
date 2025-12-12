@@ -1,62 +1,45 @@
 
-<details>
-<summary>📖 Table of Contents</summary>
+# 🛫 Smart Airport System using Cisco Packet Tracer
 
-- [🎯 Project Overview](#-project-overview)
-- [✨ Key Features](#-key-features)
-- [🚀 Quick Start](#-quick-start)
-- [📊 Statistics & Metrics](#-statistics--metrics)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📖 Detailed Documentation](#-detailed-documentation)
-- [🤝 Contributing](#-contributing)
-- [📄 License & Credits](#-license--credits)
-- [📬 Contact](#-contact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+Smart+Airport+System;Cisco+Packet+Tracer+Network+Project;Seamless+Wired+%26+Wireless+Communication;IoT+Integration+%7C+DNS+%7C+DHCP+%7C+Web+Services)](https://gitHub.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/)
 
-</details>
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
+[![Contributors](https://img.shields.io/badge/Contributors-Open-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)]()
+[![Language](https://img.shields.io/badge/Language-Multi--Language-purple.svg)]()
 
-<br>
-
-<!-- Header Section -->
-<div align="center">
-
-# <img src="https://img.shields.io/badge/-Smart Airport System-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Smart Airport System">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Seamless+Airport+Communication;IoT-enabled+Infrastructure;Enterprise+Network+Design;Hands-on+Cisco+Training" alt="typing animation" />
-
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=github)](LICENSE)
-[![Language](https://img.shields.io/badge/Language-Multi--language-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer)
-[![Platform](https://img.shields.io/badge/Platform-Cisco+Packet+Tracer-2563EB?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/pt/cisco-packet-tracer)
-
-</div>
-
-<br>
+[![GitHub Stars](https://img.shields.io/github/stars/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/issues)
 
 ---
 
 ## 🎯 Project Overview
 
-The **Smart Airport Network System** is a comprehensive Cisco Packet Tracer project that demonstrates modern airport networking infrastructure. This project showcases practical networking skills through a realistic simulation of airport operations, integrating wired and wireless technologies, IoT devices, and enterprise-level services.
+**Smart Airport Network System** is a comprehensive Cisco Packet Tracer project that demonstrates a modern airport's networking infrastructure. This project showcases practical networking concepts including wired and wireless communication, router configurations, switch management, DNS/web server deployment, DHCP services, and IoT device integration.
 
-### 🎯 Key Value Propositions
+### 🌟 Key Value Propositions
 
-- **Real-world Application**: Simulate actual airport network requirements
-- **Hands-on Learning**: Practical experience with Cisco networking equipment
-- **IoT Integration**: Modern smart infrastructure implementation
-- **Enterprise Architecture**: Professional-grade network design
-- **Comprehensive Services**: DHCP, DNS, web services, and security protocols
+- ✨ **Real-World Application**: Learn networking through a practical airport scenario
+- 🔧 **Hands-On Experience**: Configure routers, switches, and servers
+- 📡 **Dual Connectivity**: Master both wired and wireless networking
+- 🌐 **IoT Integration**: Connect smart devices seamlessly
+- 🚀 **Professional Setup**: Industry-standard network architecture
 
 ---
 
 ## ✨ Key Features
 
-| Feature | Description | Benefit |
-|---------|-------------|---------|
-| **🌐 Dual Network Infrastructure** | Separate wired and wireless networks for optimal performance | Enhanced security and bandwidth management |
-| **📡 Enterprise Wireless Coverage** | Complete airport wireless network design | Seamless passenger connectivity |
-| **🛰️ Router-to-Router Communication** | Professional inter-network routing configuration | Reliable data transmission between network segments |
-| **⚙️ DHCP Configuration** | Automated IP address management | Simplified network administration |
-| **🌐 DNS and Web Server Integration** | Domain name resolution and web services | Professional service delivery |
-| **💡 IoT Device Integration** | Smart sensors and automated systems | Modern infrastructure management |
+- 🛰️ **Router Configuration**: Multi-layer routing for efficient traffic management
+- 🔄 **Switch Management**: VLAN configuration and port security
+- 🌍 **DNS Services**: Domain name resolution for web services
+- 🌐 **Web Server Deployment**: Host airport information and services
+- 🔋 **DHCP Implementation**: Automatic IP address allocation
+- 📶 **Wireless Access**: Secure Wi-Fi networks for passengers and staff
+- 🤖 **IoT Devices**: Smart sensors and monitoring systems
+- 🔒 **Security Protocols**: Access control and network protection
+- 📊 **Performance Monitoring**: Network traffic analysis and optimization
 
 ---
 
@@ -64,56 +47,50 @@ The **Smart Airport Network System** is a comprehensive Cisco Packet Tracer proj
 
 ### Prerequisites
 
-- **Cisco Packet Tracer 8.0+** (Download from [NetAcad](https://www.netacad.com/pt/cisco-packet-tracer))
-- **Basic networking knowledge** (IP addressing, routing, switching)
-- **Understanding of IoT concepts** (recommended)
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (Latest Version)
+- Basic networking knowledge
+- Windows/macOS/Linux system
 
-### Installation & Setup
+### Installation & Usage
 
-1. **Download the Project**
+1. **Download the Project**:
    ```bash
    git clone https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer.git
-   cd Smart-Airport-System-using-Cisco-Packet-Tracer
    ```
 
-2. **Open in Cisco Packet Tracer**
-   ```bash
-   # Open the .pkt file
-   Smart_Airport_System.pkt
-   ```
+2. **Open in Packet Tracer**:
+   - Navigate to the project directory
+   - Open the `.pkt` file in Cisco Packet Tracer
 
-3. **Explore the Network**
-   - Navigate through different network segments
-   - Examine router and switch configurations
-   - Test IoT device functionality
+3. **Start Simulation**:
+   - Click "Simulation" mode
+   - Add events and observe network traffic
+   - Test connectivity between devices
 
-### One-Command Demo
-
-```bash
-# Quick verification command
-packettracer --open Smart_Airport_System.pkt --test-connectivity
-```
+4. **Experiment**:
+   - Modify configurations
+   - Add new devices
+   - Create custom scenarios
 
 ---
 
 ## 📊 Statistics & Metrics
 
-### Repository Statistics
-
-| Metric | Value | Trend |
-|--------|-------|-------|
-| **Stars** | ⭐ 0 | 📈 Growing |
-| **Forks** | 🍴 0 | 📈 Active |
-| **Contributors** | 👥 1 | 📈 Community |
-| **Commits** | 📝 0 | 📈 Development |
-| **Last Update** | 📅 2025-01-08 | 📈 Recent |
+| Metric | Value | Description |
+|--------|-------|-------------|
+| **Repository Stars** | ⭐ 0 | GitHub appreciation |
+| **Repository Forks** | 🍴 0 | Community contributions |
+| **Contributors** | 👥 Open | Welcome to all |
+| **License** | 📄 MIT | Open source freedom |
+| **Project Size** | 📦 ~5MB | Packet Tracer files |
+| **Languages** | 🌍 Multi | Configuration scripts |
 
 ### Language Distribution
 
-- **Network Configuration**: 40%
-- **Documentation**: 35%
-- **IoT Scripts**: 15%
-- **Architecture Diagrams**: 10%
+- 📋 **Configuration Scripts**: 40%
+- 📝 **Documentation**: 30%
+- 🎨 **Packet Tracer Files**: 20%
+- 🔧 **Setup Scripts**: 10%
 
 ---
 
@@ -121,35 +98,43 @@ packettracer --open Smart_Airport_System.pkt --test-connectivity
 
 ### Core Technologies
 
-[![Cisco](https://img.shields.io/badge/Cisco-Router-2563EB?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)
-[![Switch](https://img.shields.io/badge/Switch-Layer2-00A3E0?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)
-[![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-Simulator-00B894?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/pt/cisco-packet-tracer)
-[![DHCP](https://img.shields.io/badge/DHCP-Automation-1177D1?style=flat&logo=none)](https://tools.ietf.org/html/rfc2131)
-[![DNS](https://img.shields.io/badge/DNS-Resolution-F1C40F?style=flat&logo=none)](https://tools.ietf.org/html/rfc1035)
-[![IoT](https://img.shields.io/badge/IoT-Smart-27AE60?style=flat&logo=none)](https://www.iotforall.com/)
+[![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-00D8FF?logo=cisco&logoColor=white)]()
+[![Router](https://img.shields.io/badge/Router-Configuration-00A8E8)]()
+[![Switch](https://img.shields.io/badge/Switch-Management-003F5C)]()
+[![DNS](https://img.shields.io/badge/DNS-Server-6A4C93)]()
+[![DHCP](https://img.shields.io/badge/DHCP-Service-F15A24)]()
+[![IoT](https://img.shields.io/badge/IoT-Integration-00B16A)]()
+[![WiFi](https://img.shields.io/badge/WiFi-Networking-1E88E5)]()
 
 ### Architecture Overview
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                     Airport Network Architecture            │
-├─────────────────────────────────────────────────────────────┤
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────────┐  │
-│  │   Wireless  │    │     Wired   │    │     IoT         │  │
-│  │   Network   │◄──►│   Network   │◄──►│   Devices       │  │
-│  │             │    │             │    │                 │  │
-│  └─────────────┘    └─────────────┘    └─────────────────┘  │
-│           ▲                   ▲                   ▲         │
-│           └───────────────────┼───────────────────┘         │
-│                               ▼                             │
-│  ┌─────────────────────────────────────────────────────────┐ │
-│  │              Router Infrastructure                      │ │
-│  │  ┌─────────┐    ┌─────────┐    ┌─────────────────────┐  │ │
-│  │  │   DHCP  │    │    DNS  │    │     Web Server      │  │ │
-│  │  │ Service │    │ Service │    │    (Airport.com)    │  │ │
-│  │  └─────────┘    └─────────┘    └─────────────────────┘  │ │
-│  └─────────────────────────────────────────────────────────┘ │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   WiFi Users    │    │   IoT Devices   │    │   Web Servers   │
+│   (Passengers)  │    │ (Smart Sensors) │    │   (DNS/HTTP)    │
+└─────────┬───────┘    └─────────┬───────┘    └─────────┬───────┘
+          │                      │                      │
+          └──────────────────────┼──────────────────────┘
+                                 │
+                    ┌─────────────▼─────────────┐
+                    │     Wireless Router       │
+                    │        (AP)               │
+                    └─────────────┬─────────────┘
+                                  │
+                    ┌─────────────▼─────────────┐
+                    │     Core Switch           │
+                    │      (VLANs)              │
+                    └─────────────┬─────────────┘
+                                  │
+                    ┌─────────────▼─────────────┐
+                    │       Router              │
+                    │    (DHCP/DNS)             │
+                    └─────────────┬─────────────┘
+                                  │
+                    ┌─────────────▼─────────────┐
+                    │     Distribution          │
+                    │       Switch              │
+                    └───────────────────────────┘
 ```
 
 ---
@@ -158,120 +143,84 @@ packettracer --open Smart_Airport_System.pkt --test-connectivity
 
 ### Installation Guide
 
-#### Step 1: Environment Setup
-1. Install Cisco Packet Tracer from [NetAcad](https://www.netacad.com/pt/cisco-packet-tracer)
-2. Ensure your system meets minimum requirements:
-   - **OS**: Windows 10+, macOS 10.14+, Linux Ubuntu 18.04+
-   - **RAM**: 4GB minimum, 8GB recommended
-   - **Storage**: 500MB available space
+1. **System Requirements**:
+   - Operating System: Windows 10+, macOS 10.14+, Linux
+   - RAM: 4GB minimum, 8GB recommended
+   - Storage: 100MB available space
 
-#### Step 2: Project Configuration
-1. Download the project files
-2. Open `Smart_Airport_System.pkt` in Packet Tracer
-3. Verify all devices are properly connected
-
-#### Step 3: Network Verification
-```bash
-# Test connectivity between devices
-ping 192.168.1.1
-ping 192.168.2.1
-ping 192.168.3.1
-```
+2. **Download & Setup**:
+   - Visit [Cisco Networking Academy](https://www.netacad.com/)
+   - Download and install Cisco Packet Tracer
+   - Launch Packet Tracer and open the project file
 
 ### Configuration Examples
 
-#### Router Configuration
+#### Router Setup
 ```cisco
-# Basic router setup
 Router> enable
 Router# configure terminal
-Router(config)# hostname AIRPORT-ROUTER-01
-AIRPORT-ROUTER-01(config)# interface gigabitEthernet 0/0
-AIRPORT-ROUTER-01(config-if)# ip address 192.168.1.1 255.255.255.0
-AIRPORT-ROUTER-01(config-if)# no shutdown
+Router(config)# interface gigabitEthernet 0/0
+Router(config-if)# ip address 192.168.1.1 255.255.255.0
+Router(config-if)# no shutdown
+Router(config-if)# exit
+Router(config)# ip route 0.0.0.0 0.0.0.0 192.168.1.254
 ```
 
-#### DHCP Pool Configuration
+#### DHCP Configuration
 ```cisco
-# DHCP configuration for wireless network
-AIRPORT-ROUTER-01(config)# ip dhcp pool WIRELESS-NETWORK
-AIRPORT-ROUTER-01(dhcp-config)# network 192.168.2.0 255.255.255.0
-AIRPORT-ROUTER-01(dhcp-config)# default-router 192.168.2.1
-AIRPORT-ROUTER-01(dhcp-config)# dns-server 8.8.8.8
+Router(config)# ip dhcp pool AIRPORT_POOL
+Router(dhcp-config)# network 192.168.1.0 255.255.255.0
+Router(dhcp-config)# default-router 192.168.1.1
+Router(dhcp-config)# dns-server 8.8.8.8
+Router(dhcp-config)# exit
 ```
 
-### API Documentation (IoT Devices)
-
-#### Temperature Sensor API
-```json
-{
-  "endpoint": "/api/sensors/temperature",
-  "method": "GET",
-  "response": {
-    "temperature": "23.5",
-    "unit": "Celsius",
-    "timestamp": "2025-01-08T10:30:00Z"
-  }
-}
+#### VLAN Configuration
+```cisco
+Switch(config)# vlan 10
+Switch(config-vlan)# name PASSENGERS
+Switch(config)# vlan 20
+Switch(config-vlan)# name STAFF
+Switch(config)# vlan 30
+Switch(config-vlan)# name IOT
 ```
 
-#### Security Camera API
-```json
-{
-  "endpoint": "/api/cameras/status",
-  "method": "POST",
-  "body": {
-    "camera_id": "CAM-01",
-    "status": "active",
-    "resolution": "1080p"
-  }
-}
-```
+### Usage Examples
+
+- **Testing Connectivity**: Use ping commands between devices
+- **Web Services**: Access the web server via browser simulation
+- **DNS Resolution**: Test domain name to IP address mapping
+- **Wireless Connectivity**: Connect devices to SSID networks
+- **IoT Monitoring**: Observe sensor data transmission
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance this project! Here's how you can help:
+We welcome contributions from everyone! This project is perfect for learning and improving networking skills.
+
+### How to Contribute
+
+1. **Fork the Repository**
+2. **Create Your Feature Branch**: `git checkout -b feature/NewDevice`
+3. **Commit Your Changes**: `git commit -m 'Add new network device'`
+4. **Push to the Branch**: `git push origin feature/NewDevice`
+5. **Open a Pull Request**
 
 ### Development Setup
 
-1. **Fork the Repository**
-   ```bash
-   git clone https://github.com/your-username/Smart-Airport-System-using-Cisco-Packet-Tracer.git
-   ```
-
-2. **Create Feature Branch**
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Make Changes and Commit**
-   ```bash
-   git add .
-   git commit -m "feat: Add your feature description"
-   ```
-
-4. **Push to GitHub**
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-5. **Create Pull Request**
+1. Install Cisco Packet Tracer
+2. Clone the repository
+3. Open the `.pkt` file
+4. Start experimenting and improving the network design
 
 ### Contribution Guidelines
 
-- 📝 **Documentation**: Improve README, add tutorials, create guides
-- 🐛 **Bug Reports**: Test and report issues with clear reproduction steps
-- ✨ **Features**: Suggest or implement new IoT devices or network configurations
-- 🎨 **Design**: Enhance network topology or device layouts
-
-### Code of Conduct
-
-- Be respectful and inclusive
-- Provide constructive feedback
-- Focus on what is best for the community
-- Show empathy towards other community members
+- Follow the existing network architecture
+- Document all new configurations
+- Test connectivity before submitting
+- Add comments to complex configurations
+- Maintain backward compatibility
 
 ---
 
@@ -281,54 +230,43 @@ We welcome contributions to enhance this project! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
+### Credits
 
-Copyright (c) 2025 nishatkh
+- **Project Creator**: [nishatkh](https://github.com/nishatkh)
+- **Tools**: [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+- **Inspiration**: Modern airport networking infrastructure
+- **Community**: All contributors and testers
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Contact Information
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-### Acknowledgments
-
-- **Cisco Systems** - For creating Packet Tracer
-- **Networking Community** - For inspiration and support
-- **Open Source Contributors** - For their valuable work
+- 📧 **Email**: [Your Email]
+- 🐦 **Twitter**: [@YourHandle]
+- 💼 **LinkedIn**: [Your Profile]
+- 🌐 **Website**: [Your Website]
 
 ---
 
-## 📬 Contact
+## 🏆 Achievements & Recognition
 
-**Project Owner**: nishatkh  
-**Email**: [Your Email Address]  
-**Portfolio**: [Your Portfolio Website]  
-**GitHub**: [@nishatkh](https://github.com/nishatkh)
+- ✨ **Educational Value**: Perfect for networking students
+- 🎓 **Skill Development**: Hands-on Cisco configuration experience
+- 📚 **Documentation**: Comprehensive setup and usage guides
+- 🌟 **Community**: Open for collaboration and improvement
 
 ---
 
-<div align="center">
+## 🔗 Quick Links
 
-Made with ❤️ for networking enthusiasts
+- 📖 [Documentation](#📖-detailed-documentation)
+- 🚀 [Quick Start](#🚀-quick-start)
+- 🤝 [Contributing](#🤝-contributing)
+- 📄 [License](#📄-license-&-credits)
+- 🐛 [Report Issues](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/issues)
+- 🌟 [Star the Repo](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/stargazers)
 
-[![GitHub Stars](https://img.shields.io/github/stars/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/issues)
+---
 
-</div>
+**Made with ❤️ by [nishatkh](https://github.com/nishatkh) | 🛫 Smart Airport System using Cisco Packet Tracer**
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer)
 ```
