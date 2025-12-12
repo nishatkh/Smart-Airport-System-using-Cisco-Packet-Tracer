@@ -1,6 +1,4 @@
-# README.md
 
-```markdown
 <!-- Animated Header -->
 <p align="center">
   <a href="https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer">
