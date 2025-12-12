@@ -1,6 +1,4 @@
-# README.md
 
-```markdown
 <details>
 <summary>📖 Table of Contents</summary>
 
