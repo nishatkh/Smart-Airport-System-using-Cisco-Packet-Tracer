@@ -1,4 +1,17 @@
 
+<div align="center">
+
+# <img src="https://img.shields.io/badge/-Smart Airport System-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Smart Airport System">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Seamless+Airport+Communication;IoT-enabled+Infrastructure;Enterprise+Network+Design;Hands-on+Cisco+Training" alt="typing animation" />
+
+[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=github)](LICENSE)
+
+[![Platform](https://img.shields.io/badge/Platform-Cisco+Packet+Tracer-2563EB?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/pt/cisco-packet-tracer)
+
+</div>
+
+<br>
 <details>
 <summary>📖 Table of Contents</summary>
 
@@ -15,22 +28,6 @@
 </details>
 
 <br>
-
-<!-- Header Section -->
-<div align="center">
-
-# <img src="https://img.shields.io/badge/-Smart Airport System-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Smart Airport System">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Seamless+Airport+Communication;IoT-enabled+Infrastructure;Enterprise+Network+Design;Hands-on+Cisco+Training" alt="typing animation" />
-
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=github)](LICENSE)
-
-[![Platform](https://img.shields.io/badge/Platform-Cisco+Packet+Tracer-2563EB?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/pt/cisco-packet-tracer)
-
-</div>
-
-<br>
-
 ---
 
 ## 🎯 Project Overview
