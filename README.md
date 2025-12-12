@@ -300,4 +300,3 @@ SOFTWARE.
 [![GitHub Issues](https://img.shields.io/github/issues/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer?style=social)](https://github.com/nishatkh/Smart-Airport-System-using-Cisco-Packet-Tracer/issues)
 
 </div>
-```
